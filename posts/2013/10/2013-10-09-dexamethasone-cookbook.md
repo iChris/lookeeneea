@@ -3,7 +3,6 @@ title: "Dexamethasone Cookbook"
 date: "2013-10-09"
 categories: 
   - "life"
-permalink: "{{ page.date | date: '%Y/%m' }}\/{{ page.title | slugify }}\/"
 ---
 
 Sam: "I would like a piece of toast, but with banana and pepper."

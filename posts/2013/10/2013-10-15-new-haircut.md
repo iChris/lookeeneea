@@ -3,7 +3,6 @@ title: "New Haircut"
 date: "2013-10-15"
 categories: 
   - "life"
-permalink: "{{ page.date | date: '%Y/%m' }}\/{{ page.title | slugify }}\/"
 ---
 
 "what did your friends think of your new haircut?"

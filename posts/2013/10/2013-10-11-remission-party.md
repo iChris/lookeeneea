@@ -3,7 +3,6 @@ title: "Remission Party!"
 date: "2013-10-11"
 categories: 
   - "life"
-permalink: "{{ page.date | date: '%Y/%m' }}\/{{ page.title | slugify }}\/"
 ---
 
 We are back home!!!

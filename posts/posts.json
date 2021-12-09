@@ -1,7 +1,7 @@
 {
   "layout": "layouts/post.njk",
-  "permalink": "posts/{{ title | slug }}/index.html",
-  "author": "Anonymous",
+  "permalink": "/{{ page.date | date: '%Y/%m' }}/{{ title | slugify }}/",
+  "author": "Chris or Lorinda",
   "tags": [
     "post"
   ]
