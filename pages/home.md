@@ -7,14 +7,8 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# Intro
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+So, thanks to my awesome brother in law Chris, we have a place to [blog](/blog/) about our journey as we walk through the world of childhood cancer. I asked Sam to write out the word leukaemia, which is where we got the title of the blog. 
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
-
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+It is a bit of a crazy time for us, so I can’t guarantee how complete or up to date the blog will be, but I will give it a go:)
